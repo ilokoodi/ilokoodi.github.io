@@ -1,2 +1,4 @@
-[ilokoodi.github.io](https://ilokoodi.github.io)
+[ilokoodi.github.io](http://www.ilokoodi.com/)
 ==================
+
+> http://www.ilokoodi.com/
